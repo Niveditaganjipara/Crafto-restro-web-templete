@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../font/Bebas_Neue_Transfonter/BebasNeue-Regular.woff2') format('woff2'),
+        url('../font/Bebas_Neue_Transfonter/BebasNeue-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Italic.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Regular.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Black.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-ExtraBold.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-ExtraBoldItalic.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Bold.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-BlackItalic.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-BoldItalic.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Medium.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-SemiBold.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-MediumItalic.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-SemiBoldItalic.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Italic.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Schibsted Grotesk';
+    src: url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Regular.woff2') format('woff2'),
+        url('../font/Schibsted_Grotesk_transfonter/SchibstedGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

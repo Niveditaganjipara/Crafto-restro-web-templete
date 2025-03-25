@@ -1,0 +1,78 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root
+{
+    --Bebas-Neue:'Bebas Neue';
+    --Schibsted-Grotesk:'Schibsted Grotesk';
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-black: #000;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+}
+
+.ff-bebas
+{
+    font-family: var(--Bebas-Neue);
+}
+
+.ff-schibsted
+{
+    font-family: var(--Schibsted-Grotesk);
+}
+a{
+    text-decoration: none;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+.bg-img
+{
+    background-image: url("../images/banner-bg.jpg");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar-brand img
+{
+    width: 150px;
+}
+.collapse
+{
+    display: flex;
+    justify-content: center;
+   
+}
+.logo img
+{
+    width: 200px;
+}
+.navigation a
+{
+color: #fff;
+transition: all 0.5s;
+font-size: 22px;
+}
+.booking-table span
+{
+    color: #fff;
+}
+.booking-table svg
+{
+    color: #fff;
+}
