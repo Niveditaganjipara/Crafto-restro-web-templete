@@ -64,15 +64,15 @@ a{
 }
 .navigation a
 {
-color: #fff;
+/* color: #fff;/ */
 transition: all 0.5s;
 font-size: 22px;
 }
 .booking-table span
 {
-    color: #fff;
+    /* color: #fff; */
 }
 .booking-table svg
 {
-    color: #fff;
+    /* color: #fff;/ */
 }
