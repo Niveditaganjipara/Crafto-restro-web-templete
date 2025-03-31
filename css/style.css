@@ -46,6 +46,7 @@ a{
     background-repeat: no-repeat;
     overflow: hidden;
     background-size: cover;
+    height: 100vh;
     background-attachment: fixed;
 }
 .navbar-brand img
@@ -64,15 +65,6 @@ a{
 }
 .navigation a
 {
-/* color: #fff;/ */
 transition: all 0.5s;
 font-size: 22px;
-}
-.booking-table span
-{
-    /* color: #fff; */
-}
-.booking-table svg
-{
-    /* color: #fff;/ */
 }
